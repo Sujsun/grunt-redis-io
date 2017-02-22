@@ -1,0 +1,48 @@
+{
+  "name": "grunt-redis-io",
+  "description": "Grunt plugin to read/write to redis server",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Sujsun/grunt-redis-io",
+  "author": {
+    "name": "Sundarasan",
+    "email": "s.n.sundarasan@gmail.com",
+    "url": "https://github.com/sundarasan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sujsun/grunt-redis-io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sujsun/grunt-redis-io/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Sujsun/grunt-redis-io/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt",
+    "redis",
+    "redis-io",
+    "read",
+    "write",
+    "set",
+    "get",
+    "del"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "redis": "^2.6.5"
+  }
+}
