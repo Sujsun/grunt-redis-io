@@ -57,9 +57,9 @@ Find more information [here](https://docs.sentry.io/api/releases/post-release-fi
 
 ### Parameters
 
-**port** _[Number]_ - Port number on which Redis Server is running.  
-**host** _[String]_ - Host address of Redis Server.
-**operation** _[Array<OperationObjects>]_ – I/O operations to be performed on Redis Server.
+- **port** _[Number]_ - Port number on which Redis Server is running.  
+- **host** _[String]_ - Host address of Redis Server.
+- **operation** _[Array<OperationObjects>]_ – I/O operations to be performed on Redis Server.
 
 ### Operations:
 
