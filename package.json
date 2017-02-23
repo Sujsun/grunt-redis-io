@@ -1,7 +1,7 @@
 {
   "name": "grunt-redis-io",
   "description": "Grunt plugin to read/write to redis server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/Sujsun/grunt-redis-io",
   "author": {
     "name": "Sundarasan",
